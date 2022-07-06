@@ -1,5 +1,5 @@
 <script setup>
-import TimeZone from "./TimeZone.vue";
+import TimeZone from "../TimeZone.vue";
 
 </script>
 
